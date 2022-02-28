@@ -1,0 +1,3 @@
+/Users/idan.amitay/CLionProjects/low-level-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/idan.amitay/CLionProjects/low-level-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/idan.amitay/CLionProjects/low-level-programming/cmake-build-debug/CMakeFiles/low_level_programming.dir
